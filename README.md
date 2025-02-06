@@ -1,23 +1,19 @@
-<h1 align="center">👋 Olá, eu sou {Bruno}</h1>
+<h1 align="center">Olá 👋, Eu sou Bruno</h1>
+<h3 align="center">Estudante de Analise e Desenvolvimento de Sistemas</h3>
 
-<p align="center">
-  💻 Estudante de Analise e Desenvolvimento De Sistemas | 🌍 Apaixonado por Tecnologia
-</p><br><br>
+- 🌱 Atualmente estou aprendendo **Python e MySql**
 
+- 📫 Pode me contatar pelo email **brunodemelobaumgartner@yahoo.com**
 
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)<br><br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@fhyukk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fhyukk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bruno-de-melo-baumgartner-68988a252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-de-melo-baumgartner-68988a252" height="30" width="40" /></a>
+</p>
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 📫 Contato
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsuio&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="rsuio" /></p>
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{brunodemelobaumgartner@yahoo.com})](mailto:{brunodemelobaumgartner@yahoo.com})
-[![Linkedin: Bruno](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devellenias/)](www.linkedin.com/in/bruno-de-melo-baumgartner-68988a252)
-[![Twitter Follow](https://img.shields.io/twitter/follow/fHyukk?style=social)]([{Link](https://x.com/fHyukk)}) <br><br>
-
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=radical)
-
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsuio&show_icons=true&theme=dracula&locale=en" alt="rsuio" /></p>
