@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Bruno</h1>
 <h3 align="center">Estudante de Analise e Desenvolvimento de Sistemas</h3>
 
-- 🌱 Atualmente estou aprendendo **Python e MySql**
+- 🌱 Atualmente estou aprendendo **Java e JavaScript**
 
 - 📫 Pode me contatar pelo email **brunodemelobaumgartner@yahoo.com**
 
