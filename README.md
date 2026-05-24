@@ -31,7 +31,7 @@ Possuo certificações pela **Cisco** (Python, Linux e Redes) e adoro construir 
 
 ## ⚔️ Experiência
 
-**Estagiário de TI — Ministério Público do Trabalho (MPT-PE)** 📅 *2024 – Atual | Recife, PE*
+**Estagiário de TI — Ministério Público do Trabalho (MPT-PE)** 📅 *2026 – Atual | Recife, PE*
 
 * Aprovado em **4º lugar** no rigoroso processo seletivo para estágio em Informática do órgão.
 * Responsável pelo suporte técnico preventivo/corretivo, configuração de redes e manutenção da infraestrutura de sistemas internos.
